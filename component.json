@@ -1,0 +1,12 @@
+{
+    "name": "urllite",
+    "description": "A lightweight URL library for JavaScript.",
+    "repos": "https://github.com/hzdg/urllite.js.git",
+    "main": "lib/complete.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "xtend": "~4.0.0"
+    },
+    "version": "0.5.0"
+}
